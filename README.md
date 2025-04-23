@@ -79,19 +79,19 @@ Here are some sample UI images demonstrating the interface:
 
 1) **Group Creation and Member Addition**:
 
-![Group Creation UI](images\group_creation_image.png)
+![Group Creation UI]("images\group_creation_image.png")
 
 2) **Expense Entry Form**:
 
-![Expense Entry UI](images\expense_entry_image.png)
+![Expense Entry UI]("images\expense_entry_image.png")
 
 3) **Balance and Chart Updates**:
 
-![Balance and Charts UI](images\balance_chart_image.png)
+![Balance and Charts UI]("images\balance_chart_image.png")
 
 4) **Settlement Tracking**:
 
-![Settlement UI](images\settlement_image.png)
+![Settlement UI]("images\settlement_image.png")
 
 ## Technologies Used
 
