@@ -70,7 +70,7 @@ The app will be available at `http://localhost:3000` or a similar local server a
 
 Here is a high-level sequence diagram illustrating how the users interact with the application:
 
-![Sequence Diagram](images\Sequence_Diagram.png)
+![Sequence Diagram]("images/Sequence_Diagram.png")
 
 
 ## UI Preview
