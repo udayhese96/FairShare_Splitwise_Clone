@@ -5,6 +5,13 @@
 
 In modern social and professional scenarios—such as trips, hostels, roommates, and team events—managing who owes whom can become complex and error-prone. **FairShare** offers an intuitive interface to keep track of expenses, settlements, and balances.
 
+## Authors
+
+- **Uday Hase**
+- **Sahil Nagarkar**
+- **Aditya Chorghade**
+- **Yash Mali**
+
 ## Features
 
 - **Create Groups**: Users can create expense groups and add members.
